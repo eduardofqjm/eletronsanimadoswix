@@ -1,16 +1,14 @@
-
-
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8">
-  <title>Elétrons em Movimento</title>
+  <title>Eletrons.em.moviento</title>
   <style>
     body, html {
       margin: 0;
       padding: 0;
       overflow: hidden;
-      background-color: #000;
+      background-color: #000C25;
     }
     #tsparticles {
       position: absolute;
@@ -62,7 +60,7 @@
         }
       },
       background: {
-        color: "#000000"
+        color: "#000C25"
       }
     });
   </script>
